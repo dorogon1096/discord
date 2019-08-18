@@ -1,1 +1,1 @@
-# discord
+# dorogon discord server
